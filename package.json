@@ -1,0 +1,10 @@
+{
+  "name": "smartlibrary-playwright",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@playwright/test": "^1.37.0"
+  },
+  "scripts": {
+    "test": "npx playwright test"
+  }
+}
